@@ -1,0 +1,125 @@
+{
+  "users": [
+    {
+      "id": "n98",
+      "isActive": true,
+      "isAdmin": true,
+      "picture": "https://www.inclusivacorretora.com.br/img/smile.png",
+      "age": "22",
+      "name": "Nikoleta Radeva",
+      "email": "radevanikoleta@gmail.com",
+      "password": "niki98"
+    },
+    {
+      "id": "t91",
+      "isActive": true,
+      "isAdmin": false,
+      "picture": "https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://xdcoder.com/wp-content/uploads/2019/01/corporate-person-png-7.png",
+      "age": "29",
+      "name": "Todor Brankov",
+      "email": "brankovtodor@gmail.com",
+      "password": 12345
+    },
+    {
+      "id": "z99",
+      "isActive": true,
+      "isAdmin": true,
+      "picture": "https://www.synova-group.com/pics/companyintro/about-prev.png",
+      "age": 20,
+      "name": "Zlatina Ivanova",
+      "email": "ivanovazlatina@gmail.com",
+      "password": 12345
+    },
+    {
+      "id": "v88",
+      "isActive": "true",
+      "isAdmin": "false",
+      "picture": "https://greatives.eu/themes/osmosis-corporate/wp-content/uploads/2014/12/person-01.png",
+      "age": "32",
+      "name": "Vasil Georgiev",
+      "email": "vasulgeorgiev@gmail.com",
+      "password": 12345
+    },
+    {
+      "id": "e80",
+      "isActive": false,
+      "isAdmin": true,
+      "picture": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/k-pr-s31-ten-064-job33.png?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=transparent&auto=null&fm=png&ixlib=js-2.2.1&s=6e3ea029390634932f44496e58de1ce6",
+      "age": 23,
+      "name": "Emilia Kirova",
+      "email": "emiliakirova@gmail.com",
+      "password": 12345
+    },
+    {
+      "id": "p94",
+      "isActive": true,
+      "isAdmin": true,
+      "picture": "https://www.pngmart.com/files/3/Man-PNG-Pic.png",
+      "age": 26,
+      "name": "Peter Petrov",
+      "email": "petrovpeter@gmail.com",
+      "password": 12345
+    },
+    {
+      "name": "Nikoleta Margova",
+      "age": "24",
+      "email": "nikimargova@gmail.com",
+      "password": "12345",
+      "isAdmin": false,
+      "isActive": true,
+      "picture": "http://www.pngmart.com/files/8/Thinking-Woman-PNG-Background-Image.png",
+      "id": "8PrTimu"
+    }
+  ],
+  "tasks": [
+    {
+      "title": "Learning to talk",
+      "description": "In this game your child has to help inventor Daisy teach her robot Kroink to talk.",
+      "authorId": "t91",
+      "authorName": "Todor Brankov",
+      "date": "2020-05-22T14:03:31.046Z",
+      "id": 2,
+      "status": "Pending",
+      "аssessment": "5"
+    },
+    {
+      "title": "Selling Products",
+      "description": "Sales reps call on current customers. But, they are usually required to bring in new business each year. The new business helps offset lost customers, such as those who go out of business or switch suppliers.",
+      "authorId": "z99",
+      "authorName": "Zlatina Ivanova",
+      "date": "2020-05-22T14:04:14.119Z",
+      "id": 3,
+      "status": "Active",
+      "аssessment": "5"
+    },
+    {
+      "title": "New Videos",
+      "description": "Due to our upcomming product update we need to create new tutorial videos for our users.",
+      "authorId": "n98",
+      "authorName": "Nikoleta Radeva",
+      "date": "2020-05-22T14:42:38.435Z",
+      "id": 4,
+      "status": "Done",
+      "аssessment": "2"
+    },
+    {
+      "title": "Write a some pages",
+      "description": "At Public Lab, we use different Pull Request labels like gci-candidate, outreach, first-timers-only, etc. So, the task here is to write a documentation about these labels.",
+      "authorId": "n98",
+      "authorName": "Nikoleta Radeva",
+      "date": "2020-06-04T12:12:53.872Z",
+      "аssessment": "9",
+      "status": "Pending",
+      "id": 5
+    },
+    {
+      "title": "Planning a class night out",
+      "description": "Students do the task in twos and plan the night. Match them with another pair to discuss their ideas and any similarities and differences.Each pair rehearses presenting their night out. Teacher walks around, helps them if they need it and notes down any language points to be highlighted later.",
+      "authorId": "p94",
+      "authorName": "Peter Petrov",
+      "date": "2020-06-06T05:36:03.588Z",
+      "status": "Active",
+      "id": 6
+    }
+  ]
+}
